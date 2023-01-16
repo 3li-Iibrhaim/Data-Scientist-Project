@@ -10,7 +10,6 @@ The Step I do in This comp:
 		b - imporve medel\
 		c - hyper tune\
 		d - model selection( KNN, SVM,NN...etc)\
-
 	6 - Choose the best model(ensampling)\
 	7 - make submition with th best model</b>
 
