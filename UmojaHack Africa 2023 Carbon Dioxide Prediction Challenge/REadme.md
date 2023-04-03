@@ -7,8 +7,14 @@ the most important thik that make very boost in my score is **Ensemble** many ma
 
 ### **`CatBoost`** **+** **`XGBoost`** **+** **`LightGbm`**
 
-# **Feature Generation***
+# **Feature Generation**
 1. Agregation.
 1. Rollign.
 1. Lag.
 1. Interation.
+
+and so on..
+
+you can find all this in my notebook above
+
+thank you.
