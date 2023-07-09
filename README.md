@@ -1,15 +1,7 @@
-# Data-Scientist-Project
-Hello every One or Recuriture this is my Data scientist & Machine Learning project\
-I Work with this from **kagle** and **Zind**
-I hope full be usefull for you
-
-# All get in Many Stage:
-<b>**1. Defining a problem**</b>\
-<b>**2. Data Analysis & visualisation 📈**</b>\
-<b>**3. Data transformations and feature engineering🏗**</b>\
-<b>**4. Training a state-of-the-art predictive model**</b>\
-<b>**5. Select right Validation strategy**</b>\
-<b>**6. Optimising the machine learning model**</b>\
-***and so on...***
-
-thakns..
+### Data-Scientist-Project
+All of this Projcet by my self in `Artificial Intelligence`.
+## LinkedIn Profile: [Ali Ibrahim](https://www.linkedin.com/in/ali-ibrahim-b4b2bb243/)
+### Contact
+#### Mails:  `alishogol7@gmail.com`, `ali0910762602@gmail.com`
+#### Phonse: `+249-901986444`,   `+249-995642174`
+#### Whatsapp: `+249-995642174`
