@@ -1,4 +1,4 @@
-# Predict Student Performance from Game Play 2023
+# [Predict Student Performance from Game Play 2023 ](https://www.kaggle.com/competitions/predict-student-performance-from-game-play)
 ## Trace student learning from Jo Wilder online educational game
 ## Featured Code Competition
 * February 6, 2023 - Start Date.
