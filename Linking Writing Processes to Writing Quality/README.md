@@ -18,9 +18,6 @@ In the "Writing Quality Prediction" Kaggle competition, I achieved exceptional r
 
 These scores reflect the performance of my model on both seen and unseen data, and the improvement in the private phase highlights the robustness of the solution.
 
-### Kaggle Competition Badge
-
-[![Linking Writing Processes to Writing Quality Kaggle Competition Badge](https://www.kaggle.com/c/linking-writing-processes-to-writing-quality/badge)](https://www.kaggle.com/c/linking-writing-processes-to-writing-quality)
 
 ### Notebooks
 
@@ -42,7 +39,7 @@ These scores reflect the performance of my model on both seen and unseen data, a
 
 ### Data Collection Procedure
 
-For more detailed information about the competition dataset, you can refer to the [Data Collection Procedure](<URL to the Data Collection Procedure page>) page.
+For more detailed information about the competition dataset, you can refer to the [Data Collection Procedure](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data) page.
 
 ### File and Field Information
 
